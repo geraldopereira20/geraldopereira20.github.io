@@ -1,0 +1,28 @@
+BODY {
+    background-color: black;
+    font-style: italic;
+    font-size: medium
+}
+
+
+BODY.inv {
+    background: url(img/fundo.gif);
+    font-style: italic;
+    font-size: medium
+}
+
+
+DIV.inv {
+    border: groove .2em yellow;
+    background-color: black;
+    padding: 3% 2% 3% 2%;
+    margin: 2% 2% 4% 2%
+}
+
+
+DIV.margin {
+    border: groove .2em yellow;
+    background: url(img/fundo.gif);
+    padding: 3% 2% 3% 2%;
+    margin: 2% 2% 4% 2%
+}
